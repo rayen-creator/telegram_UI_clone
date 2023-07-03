@@ -1,11 +1,13 @@
 import './App.css'
+import Sidebar from './components/sidebar'
 
 function App() {
 
   return (
     <>
-    <div className='text-purple-200'>
-      hello tailwind
+    <div className='h-screen flex flex-row  '>
+    <Sidebar/>
+    <div className='flex-1 bgDark bg-contain'></div>
     </div>
         </>
   )

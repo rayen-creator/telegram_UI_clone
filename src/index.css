@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bgDark{
+        background-image: url(./assets/bg.png);
+      
+}
