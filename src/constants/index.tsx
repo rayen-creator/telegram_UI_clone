@@ -30,6 +30,6 @@ export const navbar=[
     {key:5,icon:<MdAnimation/>,text:"Animations",toggleButton:<SwitchButton/>},
     {key:6,icon:<AiOutlineQuestionCircle/>,text:"Telegram Features"},
     {key:7,icon:<BiBug/>,text:"Report Bug"},
-    // {key:8,icon:"K",text:"Switch to K Version",toggleButton:<SwitchButton/>},
+    // {key:8,icon:<div><p>K</p></div>,text:"Switch to K Version",},
 
 ]
