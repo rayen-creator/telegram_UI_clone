@@ -37,4 +37,4 @@ $ npm run dev
 
 
 ## 🖥 Demo
-The app is deployed on [netlify](https://64a7f9aed3f55965eaa071cc--telegramuiclone.netlify.app/) 
+The app is deployed on [netlify](https://telegramuiclone.netlify.app/) 
