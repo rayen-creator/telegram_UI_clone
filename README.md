@@ -38,3 +38,5 @@ $ npm run dev
 
 ## 🖥 Demo
 The app is deployed on [netlify](https://telegramuiclone.netlify.app/) 
+![image](https://github.com/rayen-creator/telegram_UI_clone/assets/57809239/dc3473e2-0f40-4a27-bfdf-f8dcd7fc3c5e)
+
